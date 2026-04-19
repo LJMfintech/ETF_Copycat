@@ -1,0 +1,12 @@
+# 데이터 폴더 업로드 방지 (유료 데이터 보호)
+Data/Raw_Data/*
+Data/ETF_PDF/*
+Data/Processed_Data/*
+
+# 파이썬 임시 파일 및 캐시 방지
+__pycache__/
+*.pyc
+
+# 윈도우/맥 시스템 파일 방지
+.DS_Store
+Thumbs.db
